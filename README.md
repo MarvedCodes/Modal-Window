@@ -2,4 +2,4 @@
 
 - UI Component
 - Working with Classes
-- Handling a Keyboard Events
+- Handling Keyboard Events
